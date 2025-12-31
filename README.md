@@ -8,4 +8,4 @@ Organization:
 - `data/` contains our enhanced dataset and the original dataset from Oxford
 - `output/` contains spreadsheets from the topic modeling analysis
 - `plot/` contains figures
-
+- `landis_donoghue_75_years_syst_biol_supp.pdf` is the Supplementary Information associated with the main manuscript.
